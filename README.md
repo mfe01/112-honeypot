@@ -3,6 +3,6 @@
 
   Analizini yaptığım zararlı yazılımlar Malwares klasörü içinde bulunmaktadır. Eğer bu yazılımlarla çalışmak ve analizini yapmak istiyorsanız kesinlikle bir sandbox ile izole    edilmiş ortamda çalıştırmanızı tavsiye ederim. Aksi takdirde olası zararlardan sorumlu değilimdir.
 
-  Bu projede Malwares klasörü içindeki tüm dosyaların statik analizi yapılmış ve dynamics.txt dosyası içinde listelediğim dosyalarında dinamik analizi yapılmıştır. Elde ettiğim bulgular gruplandırılarak rapor dosyası içerisinde raporlandırılmıştır.
+  Bu projede Malwares klasörü içindeki tüm dosyaların statik analizi yapılmış ve dynamics.txt dosyası içinde listelediğim dosyalarında dinamik analizi yapılmıştır. Elde ettiğim bulgular gruplandırılarak rapor.md dosyası içerisinde raporlandırılmıştır.
 
 İletişim: Muhammed Furkan ERZİNCANLI (mfe01@outlook.com)
